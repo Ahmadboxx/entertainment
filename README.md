@@ -1,16 +1,7 @@
 # entertainment
 
-<head>
-   <style> body {
-       text-align: center
-   }
-       </style>
-<title>Anime</title>
-</head>
-<body style = "background: red">
-</body>
-<body>
-   <nav>
+
+
        <h1>
            Anime
        </h1>
