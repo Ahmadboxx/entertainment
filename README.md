@@ -1,7 +1,4 @@
-# entertainment
-
- 
-Anime
+ Anime
    
    </nav>
    <main>
