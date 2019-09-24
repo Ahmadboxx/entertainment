@@ -1,6 +1,5 @@
  Anime
    
-   </nav>
    <main>
        <img src="https://imgix.ranker.com/user_node_img/50084/1001673145/original/l-was-lying-to-the-orphans-about-his-motivations-photo-u1?w=650&q=50&fm=pjpg&fit=crop&crop=faces"/>
 
